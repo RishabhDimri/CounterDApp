@@ -7,8 +7,9 @@ edition = "2021"
 
 [lib]
 crate-type = ["cdylib"]
-
 [dependencies]
-candid = "0.10"
-ic-cdk = "0.16"
-ic-cdk-timers = "0.10" # Feel free to remove this dependency if you don't need timers
+candid = "0.10"           # For Candid serialization
+ic-cdk = "0.16"           # Internet Computer CDK
+ic-cdk-macros = "0.16"    # Macros for update/query functions
+serde = "1.0"             # Serialization/Deserialization
+serde_json = "1.0"        # JSON support
