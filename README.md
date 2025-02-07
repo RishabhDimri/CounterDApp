@@ -11,6 +11,14 @@ A decentralized counter application built on the Internet Computer blockchain us
 - Share counter state via URL
 - Error handling and loading states
 
+## Screenshots
+## Frontend
+![image](https://github.com/user-attachments/assets/b0d02c2d-db57-4133-857c-f87ba467988b)
+
+## Candid UI
+![image](https://github.com/user-attachments/assets/8a4c6899-6b40-4aa3-b9c5-6dec91d0cdd2)
+
+
 ## 🛠️ Tech Stack
 
 - **Backend:**
